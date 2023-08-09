@@ -13,3 +13,5 @@ on a global scale and restricted to European countries.
 
 Contains four csv files: One with monthly means of global sea surface 
 temperature, one with yearly means. The data is given in Celsius.
+For more information on this dataset see 
+https://catalogue.ceda.ac.uk/uuid/62c0f97b1eac4e0197a674870afe1ee6 .
