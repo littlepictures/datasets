@@ -7,5 +7,9 @@ of atmospheric carbon dioxide (XCO2).
 For more information on this dataset see 
 https://catalogue.ceda.ac.uk/uuid/070522ac6a5d4973a95c544beef714b4 .
 The data in the csv files is provided in yearly and monthly resolution,
-on a global scale and restricted to European countries. 
-   
+on a global scale and restricted to European countries.
+
+## Sea Surface Temperature (sst)
+
+Contains four csv files: One with monthly means of global sea surface 
+temperature, one with yearly means. The data is given in Celsius.
