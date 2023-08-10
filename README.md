@@ -8,7 +8,4 @@ For more information on this dataset see
 https://catalogue.ceda.ac.uk/uuid/070522ac6a5d4973a95c544beef714b4 .
 The data in the csv files is provided in yearly and monthly resolution,
 on a global scale and restricted to European countries. 
-
-
-## 
-  https://catalogue.ceda.ac.uk/uuid/fe98aa1c666d42b9a2a0d19a72bb8a36 
+   
