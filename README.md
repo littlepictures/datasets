@@ -20,11 +20,11 @@ https://catalogue.ceda.ac.uk/uuid/62c0f97b1eac4e0197a674870afe1ee6 .
 
 ## Land Surface Temperature (lst)
 
-Contains presently two files for European capital cities with maximum and 95th percentile LST per year.
+Contains files for global capital cities with maximum and 95th percentile LST per year.
 The data is given in °C. For more information on this dataset see:
 https://catalogue.ceda.ac.uk/uuid/6babb8d9a8d247bcb3da6aed42f4b59a .
 The data in the csv files is provided in yearly resolution,
-presently restricted to European countries.
+plus a legend file for identification of the cities.
 
 
 ## Land Cover (lc)
