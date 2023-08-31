@@ -34,4 +34,4 @@ UN Land Cover Classification System (LCCS). The data is given in km².
 For more information on this dataset see:
 https://catalogue.ceda.ac.uk/uuid/b382ebe6679d44b8b0e68ea4ef4b701c .
 The data in the csv files is provided in yearly resolution, on a global scale and one file per country.
-Europe as a whole will be calculated separately.
+A file for Europe as a whole is also contained in this repository.
