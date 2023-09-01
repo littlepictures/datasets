@@ -46,3 +46,10 @@ urban_regions.csv lists the change in urban areas in the same way, just also
 for the cities of Mogadishu, Guangzhou, and Lagos.
 For more information on this dataset see:
 https://catalogue.ceda.ac.uk/uuid/b382ebe6679d44b8b0e68ea4ef4b701c.
+
+## Glaciers
+
+Contains several geojson files derived from Glacier Monitoring in Switzerland (GLAMOS) database. https://glamos.ch/en/downloads#inventories/A55f-03 as well as ESA-CCI Glaciers team. https://doi.pangaea.de/10.1594/PANGAEA.909133
+
+## Arctic Sea Ice Extent
+CSV file of late summer (September) sea-ice extent measured in million sq km in the Arctic as measured by satellites from 1979-2022. https://www.esa.int/ESA_Multimedia/Images/2023/05/Late_summer_sea-ice_extent_in_the_Arctic
