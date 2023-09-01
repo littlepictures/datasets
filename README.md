@@ -27,7 +27,7 @@ The data in the csv files is provided in yearly resolution,
 plus a legend file for identification of the cities.
 
 
-## Land Cover (lc)
+## Land Cover 1 (lc-1)
 
 Yearly Land Cover Composition km² of a certain land cover class defined based on the
 UN Land Cover Classification System (LCCS). The data is given in km².
@@ -35,3 +35,14 @@ For more information on this dataset see:
 https://catalogue.ceda.ac.uk/uuid/b382ebe6679d44b8b0e68ea4ef4b701c .
 The data in the csv files is provided in yearly resolution, on a global scale and one file per country.
 A file for Europe as a whole is also contained in this repository.
+
+## Land Cover 2 (lc-2)
+
+This folder contains two files: rainforest_regions.csv and urban_regions.csv.
+rainforest_regions.csv lists the change in rainforest cover (measured in km²) 
+with respect to the reference value from 1992 for Brazil and the Australian 
+state Victoria.
+urban_regions.csv lists the change in urban areas in the same way, just also 
+for the cities of Mogadishu, Guangzhou, and Lagos.
+For more information on this dataset see:
+https://catalogue.ceda.ac.uk/uuid/b382ebe6679d44b8b0e68ea4ef4b701c.
