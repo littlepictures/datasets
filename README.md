@@ -38,5 +38,4 @@ A file for Europe as a whole is also contained in this repository.
 
 ## Glaciers
 
-Glacier Monitoring in Switzerland (GLAMOS) database. https://glamos.ch/en/downloads#inventories/A55f-03
-ESA-CCI Glaciers team. https://doi.pangaea.de/10.1594/PANGAEA.909133
+Contains several geojson files derived from Glacier Monitoring in Switzerland (GLAMOS) database. https://glamos.ch/en/downloads#inventories/A55f-03 as well as ESA-CCI Glaciers team. https://doi.pangaea.de/10.1594/PANGAEA.909133
