@@ -35,3 +35,8 @@ For more information on this dataset see:
 https://catalogue.ceda.ac.uk/uuid/b382ebe6679d44b8b0e68ea4ef4b701c .
 The data in the csv files is provided in yearly resolution, on a global scale and one file per country.
 A file for Europe as a whole is also contained in this repository.
+
+## Glaciers
+
+Glacier Monitoring in Switzerland (GLAMOS) database. https://glamos.ch/en/downloads#inventories/A55f-03
+ESA-CCI Glaciers team. https://doi.pangaea.de/10.1594/PANGAEA.909133
