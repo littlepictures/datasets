@@ -48,4 +48,9 @@ For more information on this dataset see:
 Contains several geojson files derived from Glacier Monitoring in Switzerland (GLAMOS) database. <https://glamos.ch/en/downloads#inventories/A55f-03> as well as ESA-CCI Glaciers team. <https://doi.pangaea.de/10.1594/PANGAEA.909133>.
 
 ## Arctic Sea Ice Extent
+
 CSV file of late summer (September) sea-ice extent given in million km² in the Arctic as measured by satellites from 1979-2022. <https://www.esa.int/ESA_Multimedia/Images/2023/05/Late_summer_sea-ice_extent_in_the_Arctic>.
+
+## Lakes
+
+CSV file of area and count of lakes, monitored by satellites. File has been processed using script available here <https://github.com/littlepictures/lakes_area_monitored_from_space>.
